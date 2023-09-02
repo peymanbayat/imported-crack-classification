@@ -190,8 +190,8 @@ tf.keras.models.save_model(model,'crack_model.hdf5')
 """## Deploy Model"""
 
 #installing streamlit
-!pip install -q streamlit
-!pip install pyngrok
+#!pip install -q streamlit
+#!pip install pyngrok
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
