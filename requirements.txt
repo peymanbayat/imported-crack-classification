@@ -7,3 +7,5 @@ matplotlib
 keras
 streamlit
 pyngrok
+#-q streamlit
+#!pip install pyngrok
