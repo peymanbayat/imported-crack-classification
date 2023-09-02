@@ -1,7 +1,7 @@
 rarfile
 tensorflow
 #opencv-python
-opencv-python-handless
+opencv-python-headless
 requests
 matplotlib
 keras
