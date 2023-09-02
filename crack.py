@@ -288,4 +288,4 @@ if __name__ == '__main__':
 
 #!streamlit run /content/app.py & npx localtunnel -p 8501
 
-!curl ipv4.icanhazip.com
+#!curl ipv4.icanhazip.com
